@@ -4,7 +4,7 @@
 
 ## Description
 
-This social media application takes advantage of the power of Python and uses the Flask server to manage routes within MySQL. After creating an account, Users can share the lastest news about their favorite tech by posting a link to the news article. That post can be commented on, and upvoted amongst the community.
+This social media application takes advantage of the power of Python and uses the Flask server to manage routes within MySQL. After creating an account, Users can share the latest news about their favorite tech by posting a link to the news article. That post can be commented on, and upvoted amongst the community.
 
 [Link to deployed Application](https://just-tech-news800.herokuapp.com)
 
